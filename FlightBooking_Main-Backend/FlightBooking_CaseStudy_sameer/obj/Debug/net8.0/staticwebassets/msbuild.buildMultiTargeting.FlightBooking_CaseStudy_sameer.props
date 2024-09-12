@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FlightBooking_CaseStudy_sameer.props" />
+</Project>

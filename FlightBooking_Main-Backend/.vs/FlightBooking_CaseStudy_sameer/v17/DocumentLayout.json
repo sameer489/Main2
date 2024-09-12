@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\controllers\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\controllers\\paymentgatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\controllers\\paymentgatewaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\dto\\paymentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819171207_flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819152810_flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819143125_flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123409_flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123016_flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\controllers\\schedulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\dto\\scheduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\sevices\\emailbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\sevices\\emailbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|c:\\users\\ssheik\\desktop\\flightbooking_casestudy_bakend_sameer\\flightbooking_casestudy_sameer\\flightbooking_casestudy_sameer\\sevices\\emailsending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9458055F-F281-48AE-97F3-2AF254F71E51}|FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj|solutionrelative:flightbooking_casestudy_sameer\\sevices\\emailsending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\FlightDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\FlightsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819174304_flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\LoginController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookingDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\BookingDTO.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\DTO\\BookingDTO.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\BookingDTO.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\DTO\\BookingDTO.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAwwCIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:06:12.978Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\BookingsController.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Controllers\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\BookingsController.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Controllers\\BookingsController.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAgwEMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:36:56.818Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwFMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:31:50.638Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\Booking.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Models\\Booking.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:48:20.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Program.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Program.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Program.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:33:25.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\appsettings.json",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\appsettings.json",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T10:35:54.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T04:39:35.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\User.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Models\\User.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:58:52.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightBooking_CaseStudy_sameer.http",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.http",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.http",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.http",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-22T10:36:16.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Controllers\\AdminsController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAkwFMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:27:36.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\Admin.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:25:54.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentGatewayController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\PaymentGatewayController.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Controllers\\PaymentGatewayController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\PaymentGatewayController.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Controllers\\PaymentGatewayController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:29:51.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaymentRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\PaymentRequestDTO.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\DTO\\PaymentRequestDTO.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\PaymentRequestDTO.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\DTO\\PaymentRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T09:24:01.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlightDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\FlightDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\FlightDTO.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\FlightDTO.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\FlightDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:55:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FlightBooking_CaseStudy_sameer.csproj",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T09:20:59.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAcwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:02:18.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SchedulesController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\SchedulesController.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Controllers\\SchedulesController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\SchedulesController.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Controllers\\SchedulesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:37:51.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ScheduleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\ScheduleDTO.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\DTO\\ScheduleDTO.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\DTO\\ScheduleDTO.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\DTO\\ScheduleDTO.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:57:50.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\FlightsController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAkwFIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:37:41.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailBooking.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Sevices\\EmailBooking.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Sevices\\EmailBooking.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Sevices\\EmailBooking.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Sevices\\EmailBooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:06:36.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240819174304_flight.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819174304_flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819174304_flight.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819174304_flight.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819174304_flight.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:43:04.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240819171207_flight.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819171207_flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819171207_flight.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819171207_flight.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819171207_flight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:12:07.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Models\\Schedule.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Models\\Schedule.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwB4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:32:21.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240819152810_flight.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819152810_flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819152810_flight.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819152810_flight.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819152810_flight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:28:10.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240819143125_flight.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819143125_flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819143125_flight.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819143125_flight.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240819143125_flight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T14:31:25.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailSending.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Sevices\\EmailSending.cs",
+              "RelativeDocumentMoniker": "FlightBooking_CaseStudy_sameer\\Sevices\\EmailSending.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\Desktop\\FlightBooking_CaseStudy_bakend_sameer\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Sevices\\EmailSending.cs",
+              "RelativeToolTip": "FlightBooking_CaseStudy_sameer\\Sevices\\EmailSending.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:33:09.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:37:49.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240818123016_flight.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123016_flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123016_flight.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123016_flight.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123016_flight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:30:16.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240818123409_flight.cs",
+              "DocumentMoniker": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123409_flight.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123409_flight.cs",
+              "ToolTip": "C:\\Users\\SSHEIK\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123409_flight.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\FlightBooking_CaseStudy_sameer\\FlightBooking_CaseStudy_sameer\\Migrations\\20240818123409_flight.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:34:09.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

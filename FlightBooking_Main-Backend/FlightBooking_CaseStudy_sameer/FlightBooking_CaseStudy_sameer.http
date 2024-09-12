@@ -1,0 +1,6 @@
+@FlightBooking_CaseStudy_sameer_HostAddress = http://localhost:5212
+
+GET {{FlightBooking_CaseStudy_sameer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
